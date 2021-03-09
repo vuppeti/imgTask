@@ -1,0 +1,10 @@
+.page-link{
+    color: #f872f8;
+}
+
+.page-link:hover {
+    background-color: #f872f8;
+    color: #fff;
+}
+
+.input-group-text { background-color: #f872f8; }
